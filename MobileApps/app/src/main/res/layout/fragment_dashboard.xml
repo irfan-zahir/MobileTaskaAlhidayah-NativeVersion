@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#66ff66"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/dash_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="30dp"
+        android:paddingBottom="50dp"
+        android:text="DASHBOARD"
+        android:textSize="30sp"
+        android:textColor="#000"/>
+
+    <TextView
+        android:id="@+id/scan_qr"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_margin="10dp"
+        android:layout_below="@id/dash_title"
+        android:text="SCAN QR"
+        android:gravity="center"
+        android:textSize="25sp"
+        android:textColor="#000"
+        android:background="@color/textView"/>
+
+    <TextView
+        android:id="@+id/payment"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_margin="10dp"
+        android:layout_below="@id/scan_qr"
+        android:background="@color/textView"
+        android:text="PAYMENT"
+        android:gravity="center"
+        android:textSize="25sp"
+        android:textColor="#000"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_margin="10dp"
+        android:layout_below="@id/payment"
+        android:text="CHILDRENS"
+        android:gravity="center"
+        android:textSize="25sp"
+        android:textColor="#000"
+        android:background="@color/textView"/>
+
+
+
+</RelativeLayout>

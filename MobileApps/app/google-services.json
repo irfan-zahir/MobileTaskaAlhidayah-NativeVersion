@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "542341301755",
+    "firebase_url": "https://taskaalhidayah-87f2a.firebaseio.com",
+    "project_id": "taskaalhidayah-87f2a",
+    "storage_bucket": "taskaalhidayah-87f2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542341301755:android:f4a96bdae0f5edbae1375e",
+        "android_client_info": {
+          "package_name": "com.android.taskaalhidayah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542341301755-aa17jk5jdbblcpctf7uoklsjnoq724fh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.taskaalhidayah",
+            "certificate_hash": "167fd3d69e66707c47ab72e7d2b5c01f4b581248"
+          }
+        },
+        {
+          "client_id": "542341301755-mrsldrq5ph4ubu1etd2mf70mltb5vsgs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWnhl_wo0GoEjdURz_42TinEIzTlCS1zo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542341301755-mrsldrq5ph4ubu1etd2mf70mltb5vsgs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
